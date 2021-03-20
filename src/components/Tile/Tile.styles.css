@@ -1,0 +1,16 @@
+.app__stats {
+  display: flex;
+  justify-content: space-between;
+}
+
+.tile {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  box-shadow: 1px 1px #ccc;
+  padding: 1rem;
+}
+
+.tile__header {
+  color: #aaa;
+}
